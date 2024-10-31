@@ -1,0 +1,27 @@
+﻿/* Lifestream Style Info Below */
+#profilactic ul, #profilactic li, #profilactic ol {
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+    width: 100%;
+}
+
+/* Date Format */
+ul .profdate {
+	display: block;
+	color: #444;
+	font-size: 1.2em;
+	text-align: left;
+	padding: 0 0 1px 0 !important;
+	margin: 8px 0 0 0 !important;
+	font-weight: bold;
+}
+
+/* Time Format */
+ul .proftime {
+	padding: 0 !important;
+	color: #555;
+	font-weight: bold;
+}
+
+/* NOTE: LIST RELATED FORMATTING IS LOCATED WITHIN THE PROFILACTIC.PHP FILE AROUND LINE 455

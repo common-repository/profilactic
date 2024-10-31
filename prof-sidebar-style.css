@@ -1,0 +1,8 @@
+﻿/* WP Profilactic Widget Style Info */
+.badge { font-size:10px; }
+
+.badge_list{ line-height:120%; padding:-10px;}
+
+.badge_site{ padding-top:3px;padding-bottom:3px;border-bottom:1px dotted #eee;font-size:12px; }
+.badge_site img{ margin-right:5px; }
+
